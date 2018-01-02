@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.jesse04.base</groupId>
+  <artifactId>jesse04</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>jesse04</name>
+  <url>http://maven.apache.org</url>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.3.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<java.version>1.8</java.version>
+	</properties>
+
+  <modules>
+    <module>jesse04-case01-firstApp</module>
+    <module>jesse04-case02-config</module>
+    <module>jesse04-case03-jdbc</module>
+    <module>jesse04-case04-jpa</module>
+    <module>jesse04-case05-beatlsql</module>
+    <module>jesse04-case06-mybatis</module>
+    <module>jesse04-case07-mybatis-tx</module>
+    <module>jesse04-case08-mongodb</module>
+    <module>jesse04-case09-redis</module>
+    <module>jesse04-case10-restdocs</module>
+    <module>jesse04-case11-swagger</module>
+    <module>jesse04-case12-apidoc</module>
+    <module>jesse04-case13-cache</module>
+    <module>jesse04-case15-RabbitMQ</module>
+    <module>jesse04-case16-restTemplate</module>
+    <module>jesse04-case17-upload-file</module>
+    <module>jesse04-case19-validating-form-input</module>
+    <module>jesse04-case20-handling-form-submission</module>
+    <module>jesse04-case21-jms</module>
+    <module>jesse04-case22-multi-module</module>
+    <module>jesse04-case23-asynchronous-methods</module>
+  </modules>
+</project>

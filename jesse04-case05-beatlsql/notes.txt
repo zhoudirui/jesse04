@@ -1,0 +1,4 @@
+http://localhost:8080/account/list
+http://localhost:8080/account/1
+http://localhost:8080/account/selectAccountByName/aaa
+

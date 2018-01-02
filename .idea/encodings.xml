@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case01-firstApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case02-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case03-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case04-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case05-beatlsql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case06-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case07-mybatis-tx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case08-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case09-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case10-restdocs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case11-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case12-apidoc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case13-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case15-RabbitMQ" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case16-restTemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case17-upload-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case19-validating-form-input" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case20-handling-form-submission" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case21-jms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case22-multi-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case22-multi-module/jesse04-case22-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case22-multi-module/jesse04-case22-libary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jesse04-case23-asynchronous-methods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rui-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rui-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-rui-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-rui-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-rui-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
